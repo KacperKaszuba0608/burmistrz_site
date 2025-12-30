@@ -34,7 +34,7 @@ with col2:
     st.write("### O CZYM MÓWIĄ LICZBY (I CZEGO LICZBY NIE MÓWIĄ)")
     st.write("""Statystyki to mądra rzecz - pokazują nam, że od 2010 roku liczba ludności Nowej Rudy spadła o 4,1%, że bezrobocie wynosi 10,4%, że średnia pensja to mniej niż w miastach obok nas. Ale liczby nie mówią nam o tym, że mimo wyzwań demograficznych i gospodarczych, w Nowej Rudzie żyją ludzie o ogromnym potencjale - inżynierowie, nauczyciele, przedsiębiorcy i artyści.
 
-Program, który Wam proponuję, nie obiecuje cudów. Ale obiecuje działanie oparte na faktach, zaradność, które pozwoli nam zamienić wyzwania w szanse.""")
+Program, który Wam przedstawiam nie obiecuje cudów, ale obiecuje działanie oparte na faktach, zaradność, które pozwoli nam zamienić wyzwania w szanse.""")
 
     st.write("### I. GOSPODARKA I RYNEK PRACY: OŻYWIANIE TKANKI EKONOMICZNEJ")
     st.write("Problem: Niski poziom zatrudnienia i wypływ młodych ludzi")
