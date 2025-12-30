@@ -12,7 +12,7 @@ col1, col2, col3 = st.columns([1,3,1])
 
 with col1:
     st.image("./images/burmistrz.png")
-    st.markdown("""#### Skład Sztabu Wybrorczego:
+    st.markdown("""#### Skład Sztabu Wyborczego:
 * Artur Gaik - kandydat na burmistrza,
 * Justyna Gaik - edukacja i kultura (Pani Burmistrzowa),
 * Tomasz Szustakowski - inwestycje i finanse (inwestor strategiczny),
