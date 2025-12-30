@@ -82,14 +82,14 @@ Działania konkretne:
     * Priorytet: Włodowice, Jugów, Sokolec, Ludwikowice (największe wsi bez dostępu)
     * Dotacje mieszkańcom na przyłączenia (50% dofinansowania z budżetu)
     * Inwestycja sumaryczna: 45 mln zł (fundusze UE + budżet)
-    * Termin: 2026–2028
+    * Termin: 2030–2032
 3. **Drogi do Europy**
     * Remont całych ulic zamiast łatek (nowe technologie – drogi impermeable)
     * Priorytet: główne ulice, szkoły, szpitale, drogi do wsi
     * Ścieżki rowerowe wzdłuż Włodzicy (Nowa Ruda – Drogosław – Włodowice – Jugów)
     * Parkingi parklet'owe (zielone, przyjazne dla środowiska) na dworca
 4. **E-mobilność: Z 2 autobusów do Całej Floty**
-    * Poszerzenie floty e-busów do 5 sztuk (2026)
+    * Poszerzenie floty e-busów do 5 sztuk (2030)
     * Stacje ładowania w Drogosławiu, Słupcu, Włodowicach
     * Bezpłatne bilety dla seniorów i uczniów (do 30% rabatu dla pozostałych)
     * Rowery elektryczne do wynajęcia w każdej wsi (system MEVO)""")
@@ -219,11 +219,11 @@ Działania konkretne:
     st.write("### VIII. HARMONOGRAM: KROK PO KROKU")
     st.markdown("""| Rok       | Priorytet             | Działania                                                       |
 | --------- | --------------------- | --------------------------------------------------------------- |
-| 2025      | Energia & Transport   | Studium geotermii; e-busy (dalsze); gminna komunikacja          |
-| 2025-2026 | Infrastruktura        | Gaz do wsi; drogi główne; ścieżki rowerowe                      |
-| 2026-2027 | Edukacja & Gospodarka | Laboratoria STEM; kursy zawodowe; park przemysłowy (inwestycje) |
-| 2027-2028 | Turystyka             | Rozbudowa kopalni; szlaki; hotel 3-gwiazdkowy                   |
-| 2025-2030 | Całość                | Tożsamość miasta (rebranding)                                   |""")
+| 2029      | Energia & Transport   | Studium geotermii; e-busy (dalsze); gminna komunikacja          |
+| 2029-2031 | Infrastruktura        | Gaz do wsi; drogi główne; ścieżki rowerowe                      |
+| 2031-2022 | Edukacja & Gospodarka | Laboratoria STEM; kursy zawodowe; park przemysłowy (inwestycje) |
+| 2032-2023 | Turystyka             | Rozbudowa kopalni; szlaki; hotel 3-gwiazdkowy                   |
+| 2029-2031 | Całość                | Tożsamość miasta (rebranding)                                   |""")
     
     st.write("### SŁOWO NA ZAKOŃCZENIE")
     st.markdown("""Nowa Ruda to miasto, które ma do powiedzenia coś ważnego Europie - historia, kultura, technologia. Włodowice to wieś, która może być modelą życia na wsi w XXI wieku. A my wszyscy razem możemy udowodnić, że małe miasta nie umierają – rodziły się na nowo.
