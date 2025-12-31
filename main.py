@@ -222,8 +222,8 @@ Działania konkretne:
 | 2029      | Energia & Transport   | Studium geotermii; e-busy (dalsze); gminna komunikacja          |
 | 2029-2031 | Infrastruktura        | Gaz do wsi; drogi główne; ścieżki rowerowe                      |
 | 2031-2022 | Edukacja & Gospodarka | Laboratoria STEM; kursy zawodowe; park przemysłowy (inwestycje) |
-| 2032-2023 | Turystyka             | Rozbudowa kopalni; szlaki; hotel 3-gwiazdkowy                   |
-| 2029-2031 | Całość                | Tożsamość miasta (rebranding)                                   |""")
+| 2032-2033 | Turystyka             | Rozbudowa kopalni; szlaki; hotel 3-gwiazdkowy                   |
+| 2029-2034 | Całość                | Tożsamość miasta (rebranding)                                   |""")
     
     st.write("### SŁOWO NA ZAKOŃCZENIE")
     st.markdown("""Nowa Ruda to miasto, które ma do powiedzenia coś ważnego Europie - historia, kultura, technologia. Włodowice to wieś, która może być modelą życia na wsi w XXI wieku. A my wszyscy razem możemy udowodnić, że małe miasta nie umierają – rodziły się na nowo.
