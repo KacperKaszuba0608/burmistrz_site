@@ -228,7 +228,7 @@ Działania konkretne:
     st.write("### SŁOWO NA ZAKOŃCZENIE")
     st.markdown("""Nowa Ruda to miasto, które ma do powiedzenia coś ważnego Europie - historia, kultura, technologia. Włodowice to wieś, która może być modelą życia na wsi w XXI wieku. A my wszyscy razem możemy udowodnić, że małe miasta nie umierają – rodziły się na nowo.
 
-Nie szukamy powrotu do przeszłości. Szukamy przyszłości, która honor szanuje przeszłość.
+Nie szukamy powrotu do przeszłości. Szukamy przyszłości, która honoruje przeszłość.
 
 Będę Wam służył. Liczę na waszą wiarę.""")
 
